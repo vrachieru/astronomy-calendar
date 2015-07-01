@@ -2,7 +2,7 @@
 
 ## About
 
-A calendar containing all the notable celestial events between 2015 and 2030.
+A calendar containing all the notable celestial events between 2015 and 2030.  
 All the information is parsed from [seasky.org](http://seasky.org).
 
 ## How do I use it?
@@ -13,6 +13,4 @@ All the information is parsed from [seasky.org](http://seasky.org).
 
 ## Dependencies
 
-- [icalendar](https://github.com/collective/icalendar)
-
-`sudo apt-get install python-icalendar`
+- [icalendar](https://github.com/collective/icalendar) `sudo apt-get install python-icalendar`
